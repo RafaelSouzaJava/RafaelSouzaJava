@@ -1,4 +1,4 @@
-### Olá! me chamo Rafael de Souza Alves 👋
+### Olá! me chamo Rafael de Souza Alves <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🔭 Hoje trabalhando com back-end
 - 🌱 Estudando Java, Spring Boot e Angular
@@ -11,6 +11,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelSouzaJava&layout=compact&langs_count=7&theme=algolia"/>
   </div>
   
+  
+  
   <div style="display: inline_block"><br>      
     <img align="center" alt="Rafa-Python" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://img.icons8.com/color/48/000000/jenkins.png">    
@@ -22,7 +24,7 @@
     <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">        
-    <img align="right" alt="Rafa-yoda" height="150" width="200" src="https://media1.giphy.com/media/Zb0asRm15HqCbgShD4/giphy.gif?cid=ecf05e47bj14h3t5nnmddq23jzpddl4ljfd5qo15dp2cjrfh&rid=giphy.gif&ct=g">
+    <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif?raw=true" width="500" height="325" />
     
     
   </div>
