@@ -3,7 +3,6 @@
 - 🔭 Hoje trabalhando com back-end em Java
 - 🌱 Estudando Java, Spring Boot e Angular
 - 📫 Contate-me no email: rafael-souza4@outlook.com
-- 😄 Pronouns: ele/dele
 
   <div>
     <a href="https://github.com/RafaelSouzaJava">
