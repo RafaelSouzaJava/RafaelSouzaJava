@@ -1,6 +1,6 @@
 ### Olá! me chamo Rafael de Souza Alves <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🔭 Hoje trabalhando com back-end
+- 🔭 Hoje trabalhando com back-end em Java
 - 🌱 Estudando Java, Spring Boot e Angular
 - 📫 Contate-me no email: rafael-souza4@outlook.com
 - 😄 Pronouns: ele/dele
